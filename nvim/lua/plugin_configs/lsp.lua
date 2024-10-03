@@ -1,6 +1,6 @@
 -- Setup language servers.
 local lspconfig = require('lspconfig')
-lspconfig.tsserver.setup {}
+lspconfig.ts_ls.setup {}
 lspconfig.cssls.setup {}
 lspconfig.html.setup {}
 lspconfig.emmet_ls.setup {}

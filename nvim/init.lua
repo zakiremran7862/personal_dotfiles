@@ -1,7 +1,7 @@
 require("core.settings")
 require("core.keymaps")
 require("core.plugins")
-require("themes.nightfox")
+require("themes.tokyonight")
 require("plugin_configs.autoclose")
 require("plugin_configs.bufferline")
 require("plugin_configs.devicons")
